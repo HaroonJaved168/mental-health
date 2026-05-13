@@ -11,7 +11,7 @@ import {
   IconX,
 } from "@/components/wellness/icons";
 
-const WHATSAPP_NUMBER = "923345792952";
+const WHATSAPP_NUMBER = "923349219693";
 
 export type BookingModalProps = {
   open: boolean;

@@ -72,8 +72,7 @@ export const services: ServiceItem[] = [
     name: "Substance Abuse Disorder",
     description:
       "Supportive, non-judgmental care to help you overcome dependency and build a healthier, substance-free life.",
-    imageSrc:
-      "https://images.unsplash.com/photo-1626691796468-7d8ae60cb32f?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85",
+    imageSrc: "/images/services/substance-abuse.jpg",
     testSlug: "substance-abuse-disorder",
   },
   {
@@ -88,32 +87,28 @@ export const services: ServiceItem[] = [
     name: "Child Psychology",
     description:
       "A safe and nurturing space for children to explore emotions, develop coping skills, and thrive.",
-    imageSrc:
-      "https://images.unsplash.com/photo-1758273241260-f49172d876e3?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85",
+    imageSrc: "/images/services/child-psychology.jpg",
     testSlug: "child-psychology",
   },
   {
     name: "Autism Spectrum Disorder",
     description:
       "Tailored support and therapeutic strategies to help individuals on the spectrum reach their full potential.",
-    imageSrc:
-      "https://images.unsplash.com/photo-1532617202163-3b60202ec869?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85",
+    imageSrc: "/images/services/autism.jpg",
     testSlug: "autism-spectrum-disorder",
   },
   {
     name: "ADHD",
     description:
       "Guidance and behavioral strategies to help children and adults with ADHD improve focus, organization, and self-regulation.",
-    imageSrc:
-      "https://images.unsplash.com/photo-1758273241090-b7d744465ce6?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85",
+    imageSrc: "/images/services/adhd.jpg",
     testSlug: "adhd",
   },
   {
     name: "Intellectual Disability",
     description:
       "Individualized care and support to enhance daily functioning, communication, and quality of life.",
-    imageSrc:
-      "https://images.unsplash.com/photo-1704462921772-17f414089b84?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85",
+    imageSrc: "/images/services/intellectual-disability.jpg",
     testSlug: "intellectual-disability",
   },
 ];
